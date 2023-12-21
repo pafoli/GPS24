@@ -3,7 +3,7 @@
 
 def to_upper_case(string):
     """string to upper case"""
-    return string
+    return string.upper()
 
 
 def to_lower_case(string):
