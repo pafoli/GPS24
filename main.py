@@ -1,6 +1,6 @@
 """ prova de CI/CD"""
 import transform
-
+import pandas
 
 def main():
     """ core del la prova"""
